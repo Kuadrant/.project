@@ -24,7 +24,7 @@ repositories:
 
 website: "https://kuadrant.io"
 
-artwork: "https://landscape.cncf.io/logos/kuadrant.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kuadrant"
 
 adopters:
   path: "https://github.com/Kuadrant/authorino/blob/main/ADOPTERS.md"
